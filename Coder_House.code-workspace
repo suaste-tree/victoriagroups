@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Coder House"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coder House"
+	}
+}

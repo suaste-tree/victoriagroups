@@ -1,0 +1,51 @@
+/* Fuente Nunito */ 
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+/* font-family: "Nunito", sans-serif; */
+
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+nav { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px;
+    align-items: center;
+    background-color: #F2F2F2;
+    border-radius: 15px;
+    
+
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    justify-content: center;
+    
+
+}
+nav ul li {
+    list-style: none;
+}
+
+.boton_primario {
+    border: black;
+    border: 3px solid #956DFC;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #956DFC;
+    font-size: 18px;
+}
+
+.a-nav {
+    text-decoration: none;
+    color: #956DFC;
+    justify-content: space-around;
+    font-size: 18px;
+    
+    
+}
