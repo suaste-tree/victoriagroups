@@ -2,3 +2,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 /* font-family: "Nunito", sans-serif; */
 
+.nav-propio {
+    background-color:#F8F6F5;
+}
+
+.hero_titulo h1 {
+font-size: 50px;
+color: #382079;
+font-weight: 500;
+}
+
+.hero_lateral p {
+    font-size: 24px;
+
+}
+
+.hero {
+    display: flex;
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 24px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 48px;    
+}
+
+
+.hero_lateral {
+    display: flex;
+    max-width: 340px;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+.hero_lateral a {
+    display: flex;
+    border: 3px solid #382079;
+    border-radius: 10px;
+    padding: 10px 22px;
+    max-width: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: #956DFC;
+    text-decoration: none;
+    color: #ffffff;
+
+    
+    
+
+    
+}
+
